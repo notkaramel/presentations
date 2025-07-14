@@ -2,8 +2,6 @@ import { resolve } from "path";
 import { defineConfig } from "vite";
 import { routes } from "./routes";
 
-console.log(__dirname);
-
 let inputOptions = {
   main: resolve(__dirname, "index.html"),
 };

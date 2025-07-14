@@ -4,7 +4,7 @@
  */
 export const routes = [
   {
-    slug: "fls2013",
-    path: "/fls2013/",
+    slug: "del-bleue",
+    path: "/del-bleue/",
   },
 ];
