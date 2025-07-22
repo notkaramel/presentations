@@ -7,4 +7,8 @@ export const routes = [
     slug: "del-bleue",
     path: "/del-bleue/",
   },
+  {
+    slug: "method-ingenierie",
+    path: "/method-ingenierie/",
+  },
 ];
