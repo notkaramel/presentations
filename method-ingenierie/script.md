@@ -1,6 +1,32 @@
 # La méthodologie d'ingénirie
 
-Imagine
+## Slide 1
+
+Bonjour tout le monde. Aujourd'hui, je vais vous presenter les 6 étapes pour réussir votre prochain projet.
+
+## Slide 2
+
+Donc, imagine, tu es faim. C'est problème sérieux, c'est grave!! Tu es fatigué d'apprendre français tous les jours, de travailler. Et ouf, tu es faim maintenant, et tu veux des pâtes.
+
+Tu penses un peu, donc, il y a 2 solutions: tu peux cuisiner, ou tu peux aller au restaurant.
+
+Tu évalues, tu fais une comparison. Cuisiner est moins cher, mais tu dois faire des efforts. Tu peux aller au restaurant, zéro d'effort, mais ça peut coûter cher. Ok, imagine tu es un étudiant qui n'as pas bcp d'argent. Tu décides que tu vas cuisiner.
+
+Maintenant, tu dois planifier. Tu as besoin des ingrédients dans ton frigo. Imagine que tu as des pâtes fettucine, sauce alfredo qui est tellement authentique, des fromage, etc.
+
+Ah! Tu peux cuisiner un plat des pâtes fettucine Alfredo! Tu cuisines, et après 15 minutes, tu peux goûter ta cuisine et vérifier que c'est délicieux!
+
+## Slide 3
+
+On va faire une petite réflexion du projet souper.
+
+On a... identifié le problème, évalué les solutions. On a aussi planifié par connaitre les ingrédients. Réalisation: on a cuisiné le souper ensemble, et on a validé par goûter le plat. On peux écrite la recette pour la prochain fois.
+
+La question maintenant est, si on a un autre problème, peut-on avoir les étapes similaires, peut-on utiliser le même système?
+
+Par exemple:
+
+## Slide 4:
 
 ## Les étapes importants
 
