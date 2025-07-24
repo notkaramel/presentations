@@ -16,7 +16,6 @@ Maintenant, tu dois planifier. Tu as besoin d'ingrédients dans ton frigo. Imagi
 
 Ah\! Tu peux cuisiner un plat de pâtes fettuccine Alfredo\! Tu cuisines, et après 15 minutes, tu peux goûter ta cuisine et vérifier s'il est délicieux\!
 
-
 ## **Slide 3**
 
 On va faire une petite réflexion sur le projet souper.
@@ -63,9 +62,8 @@ La méthodologie est adaptable sur tous les domaines.
 ## **Slides 6: Avantages**
 
 - Adaptabilité: la méthodologie peut être utilisée dans la plupart des projets.
-- Rigueur, itération, et fiabilité
-- Approche systématique pour analyser, modéliser et résoudre des problèmes complexes.
-- Facilitation du travail en équipe et de la transmission de l'information.
+- Une approche systématique pour analyser, modéliser, et résoudre des problèmes complexes.
+- Faciliter le travail en équipe et la transmission de l'information.
 
 ## **Slides 7: Inconvénients**
 
