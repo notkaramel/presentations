@@ -20,54 +20,55 @@ Ah! Tu peux cuisiner un plat des pâtes fettucine Alfredo! Tu cuisines, et aprè
 
 On va faire une petite réflexion du projet souper.
 
-On a... identifié le problème, évalué les solutions. On a aussi planifié par connaitre les ingrédients. Réalisation: on a cuisiné le souper ensemble, et on a validé par goûter le plat. On peux écrite la recette pour la prochain fois.
+On a... identifié le problème, évalué les solutions. On a aussi planifié par connaitre des ingrédients.
+Réalisation: on a cuisiné le souper ensemble, et on a validé par goûter le plat. On peux écrite la recette pour la prochain fois.
 
-La question maintenant est, si on a un autre problème, peut-on avoir les étapes similaires, peut-on utiliser le même système?
+La question maintenant est, si on a un autre problème, peut-on avoir des étapes similaires, peut-on utiliser le même système?
 
 Par exemple:
 
-## Slide 4:
+Nous sommes NASA ou SpaceX maintenant.
 
-## Les étapes importants
+- Nous avons un nouveau problème: "Nous voulons aller sur la lune"
+- Donc, nous avons besoin d'une fusée 🚀
+- Nous avons besoin des équipes pour chaque partie de la fusée, le budget, la gestion, etc.
+- Pour réaliser notre plan: Nous devrons faire la recherche et fabrication la fusée
+- Nous faisons des tests.
+- Et, nous documentons les résultats, collectons de données, etc.
 
-- Analyse et compréhension du besoin: Définir clairement les exigences et les objectifs du projet.
-- Conception et modélisation: Développer des solutions techniques, en utilisant des outils de simulation et de modélisation pour évaluer leur faisabilité et leur performance.
-- Planification et gestion de projet: Établir un calendrier, allouer les ressources, et suivre l'avancement du projet.
-- Réalisation et mise en œuvre: Mettre en pratique les solutions conçues, en suivant les normes et les spécifications établies.
-- Tests et validation: S'assurer que le produit ou le système répond aux exigences et fonctionne comme prévu, à travers des essais et des simulations.
-- Maintenance et optimisation: Assurer le suivi, la maintenance et l'amélioration continue du produit ou du système.
+Pouvez-vous identifier les 6 étapes ?
 
-1. Analyse du besoin
+## Slide 4
 
-- Comprendre et formaliser le problème à résoudre.
-- Identifier les contraintes (techniques, économiques, environnementales, temporelles, humaines).
-- Rédiger un cahier des charges.
+- Analyse et compréhension du besoin
+  - Définir les objectifs et exigences du projet.
+  - Comprendre et formaliser le problème.
+  - Identifier les contraintes (techniques, économiques, humaines, etc.).
+  - Rédiger un cahier des charges.
+- Conception et modélisation
+  - Étudier les solutions existantes et générer de nouvelles idées
+  - Utiliser des outils de modélisation et simulation.
+  - Évaluer les options.
+- Planification et gestion de projet
+  - Choix de matériaux, composants, logiciels, etc.
+  - Établir un calendrier, allouer les ressources, et suivre l'avancement du projet.
+  - Réalisation de modèles, schémas, prototypes.
+- Réalisation et mise en œuvre
+  - Fabrication du prototype ou du produit final.
+  - Mettre en pratique les solutions conçues, en suivant les normes et les spécifications établies.
+  - Mise en œuvre des processus industriels ou informatiques nécessaires.
+- Tests et validation
+  - S'assurer que le produit fonctionne comme prévu
+  - Assurer le suivi, la maintenance et l'amélioration continue du produit ou du système.
+  - Vérification de la conformité au cahier des charges.
+  - Tests fonctionnels, de performance, de sécurité.
+  - Ajustements si nécessaires.
+  - Ajuster et améliorer le produit ou système si nécessaire.
+- Communication et documentation
+  - Rédaction de rapports techniques.
+  - Présentation du projet aux parties prenantes.
+  - Rédaction des notices, manuels d’utilisation, plans, codes
 
-2. Recherche de solutions
+  
 
-- Étude des solutions existantes (état de l’art).
-- Brainstorming pour générer de nouvelles idées.
-- Analyse multicritère des options possibles.
 
-3. Conception
-
-- Réalisation de modèles, schémas, prototypes numériques ou physiques.
-- Simulations ou calculs préliminaires pour valider les principes.
-- Choix de matériaux, composants, logiciels, etc.
-
-4. Réalisation
-
-- Fabrication du prototype ou du produit final.
-- Mise en œuvre des processus industriels ou informatiques nécessaires.
-
-5. Tests et validations
-
-- Vérification de la conformité au cahier des charges.
-- Tests fonctionnels, de performance, de sécurité.
-- Ajustements si nécessaires.
-
-6. Communication et documentation
-
-- Rédaction de rapports techniques.
-- Présentation du projet aux parties prenantes.
-- Rédaction des notices, manuels d’utilisation, plans, codes
