@@ -1,15 +1,25 @@
 import { resolve } from "path";
 import { defineConfig } from "vite";
-import { routes } from "./routes";
+
+/**
+ * Routes for build options
+ * @type {String[]}
+ */
+export const routes = [
+  "del-bleue",
+  "method-ingenierie",
+  "pecha-kucha",
+];
+
 
 let inputOptions = {
   main: resolve(__dirname, "index.html"),
 };
 
-for (let e of routes) {
+for (let path of routes) {
   inputOptions = {
     ...inputOptions,
-    ...{ [e.slug]: resolve(__dirname, e.path, "index.html") },
+    ...{ [path]: resolve(__dirname, path, "index.html") },
   };
 }
 
