@@ -12,6 +12,7 @@
       href="/node_modules/reveal.js/dist/theme/blood.css"
     />
     <script type="module" src="./script.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
 
     <title>Pecha Kucha</title>
   </head>
@@ -19,19 +20,125 @@
   <body>
     <div class="reveal">
       <div class="slides">
-        <section id="intro" data-autoslide="5000">T'es prêt ?</section>
-        <section id="1">
-
+        <section id="intro" data-autoslide="5000">
+          <p class="r-fit-text">
+            <span class="font-bold">10 projets</span> <br />
+            4 années dans 3 minutes
+          </p>
+          <p>T'es prêt ?</p>
         </section>
-        <section id="2">2</section>
-        <section id="3">3</section>
-        <section id="4">4</section>
-        <section id="5">5</section>
-        <section id="6">6</section>
-        <section id="7">7</section>
-        <section id="8">8</section>
-        <section id="9">9</section>
-        <section id="10">10</section>
+        <section id="1">
+          <p>
+            [1] Site web personel (ver. 2025)
+            <br />
+            Portfolio, blogs, projets technicals et créatifs
+          </p>
+          <!-- Images -->
+          <img class="r-stretch" src="./media/1.1-Portfolio2025.png" alt="" />
+        </section>
+        <section id="2">
+          <p>[2] Electronics</p>
+          <img src="./media/2.1-Electronics.jpg" alt="" class="r-stretch" />
+        </section>
+        <section id="3">
+          <p>[3] Transcription musicale à l'oreille</p>
+          <div class="grid grid-cols-2 gap-4">
+            <div>
+              <iframe
+                id="score-iframe"
+                class="w-full"
+                height="500px"
+                src="https://musescore.com/user/29658671/scores/7340753/embed"
+                frameborder="0"
+                allowfullscreen
+                allow="autoplay; fullscreen"
+              ></iframe>
+              <p class="text-[32px]">2021</p>
+            </div>
+            <div>
+              <iframe
+                id="score-iframe"
+                width="100%"
+                height="500"
+                src="https://musescore.com/user/29658671/scores/9363754/embed"
+                frameborder="0"
+                allowfullscreen
+                allow="autoplay; fullscreen"
+              ></iframe>
+              <audio src="./media/Fallin'Light_trimmed.mp3"></audio>
+              <p class="text-[32px]">2023</p>
+            </div>
+          </div>
+        </section>
+        <section id="4">
+          <p>
+            [4] Server: Minecraft (2019) <br />
+            application "full-stack" (2023)
+          </p>
+        </section>
+        <section id="5">
+          <p>[5] Projet "Paper Duckie" (2024)</p>
+          <div class="flex gap-12 place-items-center justify-center">
+            <img src="./media/5.1-Duckie.jpg" alt="" class="h-[60vh]" />
+            <div class="">
+              <img src="./media/5.2-Planning.png" alt="" />
+              <p class="text-lg">Modelisation en Minecraft</p>
+            </div>
+            <div>
+              <!-- <img src="./media/5.2-Proto.jpg" alt=""> -->
+            </div>
+          </div>
+        </section>
+        <section id="6">
+          <p>[6] Projet Robotique (2023)</p>
+        </section>
+        <section id="7">
+          <p>
+            [7] Projet
+            <span class="font-bold">« boulangerie chez antoine »</span>
+            (2022-2025)
+          </p>
+          <div class="flex gap-3 items-center r-stretch w-[100dvw]">
+            <div class="w-[25%] place-items-center">
+              <img src="./media/7.3-minibaguette.jpg" alt="" />
+              <p>2022</p>
+            </div>
+            <div class="w-[60%] place-items-center">
+              <img src="./media/7.2-flowery.png" alt="" />
+              <p>2025</p>
+            </div>
+            <div class="w-[25%] place-items-center">
+              <img src="./media/7.1-classic.jpg" alt="" />
+              <p>2023</p>
+            </div>
+          </div>
+        </section>
+        <section id="8">
+          <p>[8] Les « sidequests » <br /></p>
+          <div class="flex gap-2">
+            <div class="flex-1">
+              <img src="media/8.1-markdown.png" alt="" />
+              <p class="text-lg">Editeur Markdown</p>
+            </div>
+            <div class="flex-1">
+              <img src="media/8.2-Palette.png" alt="" />
+              <p class="text-lg">Palettes de couleurs</p>
+            </div>
+          </div>
+          <!-- IMAGE -->
+        </section>
+        <section id="9">
+          <p>[9] Les impressions 3D</p>
+          <div class="flex r-stretch gap-4">
+            <img src="./media/9.1-Joycon.jpg" alt="" />
+            <img src="./media/9.2-Switch.jpg" alt="" />
+            <img src="./media/9.3-controller.jpg" alt="">
+          </div>
+        </section>
+        <section id="10">
+          <p>[10] Projet 23</p>
+        </section>
+        <section>Merci! :)</section>
       </div>
     </div>
   </body>
