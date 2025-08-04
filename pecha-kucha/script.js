@@ -17,4 +17,5 @@ new Reveal({
   slideNumber: "h/v",
   autoPlayMedia: true,
   autoSlide: 20000,
+  backgroundTransition: "fade"
 });
