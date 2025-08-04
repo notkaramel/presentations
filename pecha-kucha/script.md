@@ -15,10 +15,10 @@ Vous pouvez écouter l'intro de "Fallin' Light" ici. J'aime la musique et la com
 J'aime jouer Minecraft avec mes amis. Minecraft est un jeux vidéo qui est capable d'avoir plusieurs joueurs en ligne. Donc, j'ai créé en serveur dans ma maison, apprendre quelque chose sur DNS, le réseau informatique entre les ordinateurs, et l'Internet.
 
 (5) - Paper Duckie
-Projet "Paper Duckie". C'était un cadeau que j'ai fait pour l'anniversaire de ma copine. Tout était fait avec du papier cartonné, sans colle. Je l'ai modélisé sur Minecraft, et j'ai eu un document Excel pour calculer le nombre de feuille de chaque couleurs dont j'avais besoin. Elle est mon ex mtn
+Projet "Paper Duckie". C'était un cadeau que j'ai fait pour l'anniversaire de ma copine (bah, mon ex-copine). Tout était fait avec du papier cartonné, sans colle. J'ai eu un document Excel pour calculer le nombre de feuille de chaque couleurs dont j'avais besoin.
 
 (6) - Robotique
-Mes amis et moi ont crée un robot pour participer dans une compétition. Elle s'appelle Pepperoni parce qu'elle est ronde. Elle a dû compléter un cours et éviter les obstacles. Elle avait beaucoup de stress pendant la competition mais le projet était très amusant.
+Mes amis et moi ont crée un robot pour participer dans une compétition. Elle s'appelle Pepperoni parce qu'elle était ronde. Elle a dû compléter un cours et éviter les obstacles. Elle avait beaucoup de stress pendant la competition et on n'a gagné rien.
 
 (7) - Boulangerie
 Si être un ingénieur ne fonctionnera pas pour moi, j'ouvrirai ma boulangerie ! J'adore le pain. C'est un passe-temps qui a commencé à cause de l'augmentation du prix du pain en 2022. J'adore la fleur ici.
@@ -27,7 +27,9 @@ Si être un ingénieur ne fonctionnera pas pour moi, j'ouvrirai ma boulangerie !
 J'aime bien l'expérience immersive de la musique en 3D, comme lorsque le son va à gauche et à droite. J'ai utilisé un logiciel appelé SuperCollider et programmé une experience ambisonie. C'était vraiment très cool. 
 
 (9) - L'impression 3D
-Il y a une imprimante 3D dans ma l'université que j'y ai directement accès, hehe. J'ai fait plusieurs l'impression 3D, et mes meilleurs impression sont des changements que j'ai eu sur mon Nintendo Switch. 
+Il y a une imprimante 3D à mon université à laquelle j'ai directement accès. J'ai réalisé plusieurs impressions 3D, et mes meilleurs impressions sont les modifications que j'ai apportées à ma Nintendo Switch. 
 
 (10) - Projet 23
-J'aurai 23 ans bientôt. Je souhaite de se connaitre moi-même. Je terminerai mes études l'année prochaine et il y aura beaucoup de changement dans ma vie. La futur sera imprévisible. Je vous remercie sincèrement pour d'être une partie de mon projet, et pour d'avoir écouter ma présentation.
+Je vais avoir 23 ans bientôt. Je terminerai mes études l'année prochaine et ma vie va connaitre de grands changements. La futur sera imprévisible. Je vous remercie sincèrement d'avoir fait partie de mon projet de vie, et d'avoir écouter ma présentation.
+
+Merci !
